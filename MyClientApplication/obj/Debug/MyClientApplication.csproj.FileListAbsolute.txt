@@ -1,0 +1,6 @@
+C:\Shuja\DotNetSamples\wcf\WcfExample\MyClientApplication\bin\Debug\MyClientApplication.exe.config
+C:\Shuja\DotNetSamples\wcf\WcfExample\MyClientApplication\bin\Debug\MyClientApplication.exe
+C:\Shuja\DotNetSamples\wcf\WcfExample\MyClientApplication\bin\Debug\MyClientApplication.pdb
+C:\Shuja\DotNetSamples\wcf\WcfExample\MyClientApplication\obj\Debug\MyClientApplication.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\wcf\WcfExample\MyClientApplication\obj\Debug\MyClientApplication.exe
+C:\Shuja\DotNetSamples\wcf\WcfExample\MyClientApplication\obj\Debug\MyClientApplication.pdb

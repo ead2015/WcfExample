@@ -1,0 +1,15 @@
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\WcfExample.dll
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\WcfExample.pdb
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\obj\Debug\WcfExample.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\obj\Debug\WcfExample.dll
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\obj\Debug\WcfExample.pdb
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\Microsoft.Data.Edm.dll
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\Microsoft.Data.OData.dll
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\Microsoft.Data.Services.Client.dll
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\Microsoft.Data.Services.dll
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\System.Spatial.dll
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\Microsoft.Data.Edm.xml
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\Microsoft.Data.OData.xml
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\Microsoft.Data.Services.xml
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\Microsoft.Data.Services.Client.xml
+C:\Shuja\DotNetSamples\wcf\WcfExample\WcfExample\bin\System.Spatial.xml
